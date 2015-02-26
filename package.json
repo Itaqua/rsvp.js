@@ -53,7 +53,7 @@
     "url": "https://github.com/tildeio/rsvp.js/issues"
   },
   "browser": {
-    "vertx": false
+    "vertx": true
   },
   "keywords": [
     "promises",
